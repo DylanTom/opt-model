@@ -1,0 +1,8 @@
+numpy
+pandas
+yfinance
+openai
+scikit-learn
+cvxpy
+nltk
+vaderSentiment
