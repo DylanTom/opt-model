@@ -1,18 +1,21 @@
 import openai
 import pandas as pd
+from dotenv import load_dotenv
+import os
 
-# Set your OpenAI API key
-openai.api_key = "your-api-key-here"
+dotenv_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), '.env')
+load_dotenv(dotenv_path)
 
 def get_chatgpt_insight(ticker):
     """
     Fetches ChatGPT investment insights for a given stock ticker.
     """
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": f"Provide a brief investment summary for {ticker}"}]
+    client = openai.OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+    response = client.chat.completions.create(
+        model="gpt-4.1",
+        messages=[{"role": "user", "content": f"What are some key insights about {ticker}?"}]
     )
-    return response["choices"][0]["message"]["content"]
+    return response.choices[0].message.content
 
 def extract_text_features(tickers):
     """

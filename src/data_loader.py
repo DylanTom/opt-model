@@ -1,11 +1,11 @@
 import pandas as pd
 import yfinance as yf
 
-def fetch_market_data(tickers, start="2020-01-01", end="2024-01-01"):
+def fetch_market_data(tickers, start="2010-01-01", end="2025-01-01"):
     """
     Fetches historical adjusted close prices for given tickers.
     """
-    data = yf.download(tickers, start=start, end=end)["Adj Close"]
+    data = yf.download(tickers, start=start, end=end)
     return data
 
 def compute_features(price_data):
