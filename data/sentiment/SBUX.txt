@@ -1,0 +1,75 @@
+Ticker: SBUX
+Insight:
+**Starbucks Corporation (SBUX) – Company Report**  
+**Data Collected: June 18, 2024**
+
+---
+
+### 1. **Overview**
+
+Starbucks Corporation (NASDAQ: SBUX) is the premier roaster, marketer, and retailer of specialty coffee globally, with over 38,000 stores across more than 80 countries. Starbucks operates through company-operated stores, licensed outlets, and various packaged goods.
+
+---
+
+### 2. **Recent Performance and Key News**
+
+#### **Stock Performance (as of June 18, 2024):**
+- **Recent Close:** ~$79 per share  
+- **Market Cap:** ~$90 Billion  
+- **2024 YTD:** Down about 20% (underperforming S&P 500)
+
+#### **Q2 FY2024 Financials (Reported April 30, 2024):**
+- **Revenue:** $8.56 billion (–1.8% YoY, missed consensus)
+- **EPS (GAAP):** $0.68 (vs. $0.74 expected)
+- **Global Comparable Store Sales:** –4%
+    - **U.S. Comp Sales:** –3%
+    - **China Comp Sales:** –11%
+- **Transactions:** Down in both key markets
+- **Operating Margin:** 12.8% (down from 15.2%)
+
+#### **Other News:**
+- Starbucks announced a pause on stock buybacks.
+- CEO Laxman Narasimhan (since 2023) faces tough turnaround after disappointing quarters.
+- Labor unrest continues: Unionization efforts in over 400 stores.
+- Expansion into new menu items (energy drinks, plant-based options).
+- $3 billion cost savings initiative across next three years.
+
+---
+
+### 3. **Key Insights**
+
+#### **Positives**
+- **Brand Strength:** Still one of the world’s most valuable brands; strong loyalty program (Starbucks Rewards) with ~34 million active U.S. members.
+- **International Growth:** Store growth continues, especially outside the U.S. (net openings: +1,000 stores QoQ, with 51% outside North America).
+- **Innovation:** Coffee and cold beverage innovation remains a driver. New digital ordering/pickup formats and energy drink partnership with PepsiCo.
+- **Cost-Cutting and Efficiency Drive:** Announced plan for $3B in savings signals a proactive approach to margin recovery.
+
+#### **Negatives**
+- **Weaker U.S. & China Comps:** Negative comparable sales in both markets, concerning given U.S./China generate >60% of global revenue.
+- **Margins and Profitability:** Cost pressures (wages, input costs) and lower transaction volumes compressing margins and profit growth.
+- **Unionization Pressures:** Labor strife poses reputational risk and potential for higher costs.
+- **Leadership Uncertainty:** Despite Narasimhan’s operational experience, investors question ability to restore growth trajectory.
+- **Competitive Landscape:** Facing new coffee competitors and changing consumer preferences post-pandemic, especially in China and among younger U.S. consumers.
+- **Stock Buyback Pause:** Pausing buybacks signals potential balance sheet discipline but may deter some shareholders.
+
+---
+
+### 4. **Sentiment Analysis**
+
+- **Neutral-to-Negative.**
+    - While Starbucks retains major brand equity and global scale, recent results show clear headwinds—especially declining comparable sales in core markets, continuing margin pressure, and unresolved labor issues. Management is responding with cost-cutting and a renewed focus on efficiency, but recovery will take time. Investors remain cautious, reflected in underperformance vs. market.
+    - Positives are the international footprint, innovation pipeline, and proactive cost measures.
+
+---
+
+### 5. **Conclusion**
+
+Starbucks faces a difficult operating environment in 2024, marked by weak sales in its two biggest markets and rising labor unrest. The new CEO’s strategy centers on cost savings and operational improvements while maintaining innovation. The trajectory in the next few quarters will be closely watched to see if sales stabilize and margins recover.
+
+**Sources:**
+- Starbucks Q2 2024 Earnings Release (April 30, 2024)  
+- Bloomberg, Reuters, CNBC, Yahoo! Finance (as of June 18, 2024)
+
+---
+
+*Note: All numbers and data are current as of June 18, 2024. Always check latest releases and market data for up-to-date information.*

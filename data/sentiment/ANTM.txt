@@ -1,0 +1,69 @@
+Ticker: ANTM
+Insight:
+Certainly! Here is a current report on the company previously trading under the ticker **ANTM** (now known as **Elevance Health, Inc.**, ticker: **ELV** after rebranding in 2022).
+
+**Date of latest data collection:** June 15, 2024
+
+---
+
+## Company Overview
+
+**Elevance Health, Inc.** (formerly Anthem, Inc.; ticker: ELV, NYSE) is an American health insurance company, one of the largest in the US, serving approximately 47 million medical members as of 2024. The company operates a diverse portfolio of health plans, including commercial, government, and specialty segments.
+
+---
+
+## Financial Performance (as of Q1 2024, reported April 18, 2024)
+
+**Key Metrics:**
+- **Q1 2024 Revenue:** $42.3 billion (up ~7.6% YoY)
+- **Q1 2024 Net Income:** $2.22 billion (up from $1.98 billion YoY)
+- **Q1 2024 Earnings per Share (EPS):** $9.81, beating analyst expectations
+- **Full-year 2024 Guidance:** Reaffirmed adjusted EPS of at least $37.20
+
+---
+
+## Key Insights
+
+**Positives:**
+
+1. **Strong Growth:** Revenue and membership continue to grow, driven by both organic expansion and strategic acquisitions.
+2. **EPS Surprises:** First quarter 2024 EPS beat analyst expectations, showing management's cost discipline and topline strength.
+3. **Diversification:** Significant progress in broadening services, with a rising share of profits from pharmacy benefits and healthcare services (Carelon division).
+4. **Solid Guidance:** The company reaffirmed robust full-year guidance, indicating confidence in ongoing business resilience.
+5. **Healthy Medical Loss Ratio (MLR):** Q1 medical loss ratio (MLR) at 85.6%—slightly lower than last year, signaling effective cost management.
+6. **Dividend & Buyback:** Regular dividend increases and ongoing share repurchases signal strong cash flow and shareholder returns.
+
+**Negatives:**
+
+1. **Medicaid Margin Pressure:** Lower Medicaid margins, due in part to state budget pressures and redetermination of Medicaid eligibility post-pandemic.
+2. **Regulatory Risk:** Ongoing scrutiny from federal and state regulators may create uncertainty, especially around government program funding.
+3. **Cost Inflation:** Healthcare cost trends remain a risk, including rising drug prices and provider reimbursement pressures.
+4. **Competition:** Faces stiff competition from other major players like UnitedHealth Group, CVS/Aetna, and Cigna, which can pressure margins and require significant technology investments.
+
+---
+
+## Recent News & Developments
+
+- **Rebranding Completed:** The transition from Anthem (ANTM) to Elevance Health (ELV) focuses on broader health solutions beyond insurance ("health as a whole").
+- **Strategic Acquisitions:** Recent acquisitions include Blue Cross and Blue Shield plans and Carelon for analytics and services, broadening the offerings and growing non-insurance revenue streams.
+- **Medicaid Re-determination Impact:** Like peers, is being affected by post-pandemic eligibility reviews, leading to potential member attrition.
+
+---
+
+## Sentiment Analysis
+
+- **Overall Sentiment:** **Neutral to Positive**
+  
+  The company remains fundamentally strong, with well-executed strategic initiatives and solid financial performance. While challenges are notable—especially regarding Medicaid and regulatory risks—Elevance Health's diversification, scale, and financial discipline provide resilience.
+
+---
+
+### **Sources**
+
+- [Elevance Health Q1 2024 Earnings Release](https://investors.elevancehealth.com/)
+- Recent news from Reuters, Bloomberg, and Wall Street Journal (June 2024)
+- Yahoo Finance and SEC filings
+
+---
+
+**Note:** All data and analysis are as of June 15, 2024. For live updates, please refer to official company communications and stock exchange releases.

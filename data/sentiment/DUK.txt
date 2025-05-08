@@ -1,0 +1,71 @@
+Ticker: DUK
+Insight:
+**Company Report: Duke Energy Corporation (Ticker: DUK)**  
+**Report date: June 20, 2024 (all data as of market close June 19, 2024, unless otherwise noted)**
+
+---
+
+### Company Overview
+
+Duke Energy Corporation is one of the largest electric power holding companies in the United States. The company provides electricity to approximately 8.2 million customers in the Southeast and Midwest, along with natural gas distribution services in the Carolinas, Ohio, Kentucky, and Tennessee. Duke Energy is classified as a regulated utility, deriving most of its revenue from regulated operations.
+
+---
+
+### Latest Financial Performance (Q1 2024)
+
+**(Q1 2024 results released on May 7, 2024)**
+
+- **Revenue:** $7.67 billion (up ~5% YoY)
+- **Net Income:** $1.01 billion (GAAP); Adjusted net income $1.022 billion
+- **EPS:** $1.37 (GAAP); $1.44 (adjusted), both up YoY
+- **Dividend Yield:** ~4.2% (annualized $4.10 at ~$98 per share)
+- **Net Debt:** ~$67 billion (as of March 31, 2024)
+- **Guidance for 2024:** reaffirmed Adjusted EPS in the range of $5.85 to $6.10 per share
+
+---
+
+### Operational Updates & News (2024)
+
+**Positives**
+
+- **Strong Regulated Earnings:** Regulated electric utilities, the core of Duke’s business, continue to post steady earnings due to favorable rate cases and customer growth, particularly in Florida and the Carolinas.
+- **Transition to Clean Energy:** Duke has made significant infrastructure investments in renewables and grid modernization. The company announced plans to retire all coal-fired plants by 2035; renewables and battery storage are expected to make up over 50% of the fleet by 2035 (up from 23% in 2024).
+- **Capital Investment:** Duke maintains a large capex plan, about $73 billion through 2028, focused on transmission, grid resilience, renewables, and customer expansion.
+- **Dividend Reliability:** The company has a long history of paying and growing its dividend, attractive to income investors.
+- **Regulatory Stability:** Recent rate case settlements have gone relatively smoothly, indicating stable regulatory relationships, which is key for utilities.
+
+**Negatives**
+
+- **High Debt Load:** Duke has significant debt on its balance sheet, resulting in high interest expenses, exacerbated by higher interest rates.
+- **Slow Profit Growth:** As with many large regulated utilities, Duke’s earnings growth is modest (expected annual EPS growth of 5-7% through 2028).
+- **Regulatory Risk:** Ongoing transition to cleaner energy depends on continued regulatory support and timely approvals, which are not guaranteed.
+- **Weather Sensitivity:** Earnings are affected by both mild winters/summers or storms (which can reduce/recover costs), leading to some quarters being less predictable.
+- **Asset Divestitures:** In late 2023 and early 2024, Duke completed the divestiture of its commercial renewables business. While this de-risked the portfolio and provided cash, it also eliminated a source of potential higher long-term growth.
+
+**Recent News Highlights**
+
+- **Grid Modernization:** In May 2024, Duke announced progress on large-scale grid projects in Florida and North Carolina following regulatory approvals, with projects to be completed through 2026.
+- **Environmental Litigation:** Ongoing coal ash remediation costs remain, but no new legal judgments reported in 2024.
+- **Executive Leadership:** No major changes reported in 2024.
+
+---
+
+### Key Insights
+
+- **Strengths:** Stable and largely recession-resistant business model, reliable dividend with above-average yield, strong regional customer base, a well-defined trajectory toward renewable energy, and regulatory relationships that support planned capex.
+- **Risks:** High debt that could weigh on profits if interest rates stay elevated, regulatory pace of energy transition, potential for adverse weather or environmental costs, and limited upside growth compared to more aggressive peers or non-utility sectors.
+
+**Analyst Sentiment (as of June 2024):**   
+Duke is generally rated as a ‘Hold’ or ‘Market Perform’ by Wall Street analysts. Most see it as a stable, income-focused utility with limited upside, but also limited risk, suitable for conservative, long-term investors. Price targets typically fall in the $95-110 range (current price ~$98).
+
+---
+
+### Conclusion
+
+Duke Energy remains a large, low-volatility utility company with reliable dividends and a clear path to a greener future. The positives are stable cash flows, a strong capex plan, and relatively low operational risk. Less positive are the prospects for high earnings growth and the significant financial leverage on the balance sheet.
+
+For income-oriented and conservative investors, DUK remains a valid choice. For those seeking high growth or speculative upside, Duke may appear less attractive in the current environment.
+
+---
+
+*Data collected from: Duke Energy Q1 2024 earnings release, company press releases, SEC filings, major financial news outlets, and sell-side analyst reports as of June 19, 2024.*

@@ -1,0 +1,81 @@
+Ticker: CHTR
+Insight:
+**Charter Communications, Inc. (NASDAQ: CHTR) – Company Report**
+
+**Data Collected as of: June 10, 2024**
+
+---
+
+### COMPANY OVERVIEW
+Charter Communications, Inc. is a leading broadband connectivity company and cable operator serving over 32 million customers in 41 states under the “Spectrum” brand. Charter is the second-largest cable operator in the U.S. and offers a suite of communications services, including internet, TV, voice, and mobile.
+
+---
+
+## 1. FINANCIAL UPDATE – MOST RECENT DATA
+
+### Q1 2024 Earnings Summary *(reported on April 26, 2024)*
+
+- **Revenue:** $13.67 billion (+0.2% year-over-year)
+- **Net Income:** $1.01 billion (+13% year-over-year)
+- **Adjusted EBITDA:** $5.330 billion (+0.7% year-over-year)
+- **Earnings per Share (EPS):** $8.41 (vs. $6.65 in Q1 2023)
+- **Free Cash Flow:** $325 million (down from $764 million YoY)
+- **Capital Expenditures:** $2.4 billion (steady YoY)
+- **Leverage Ratio:** ~4.3x Net Debt/EBITDA
+
+### Operational Results
+
+- **Broadband Internet Subscribers:** Lost 72,000 residential and 3,000 small & medium business lines (total net loss: 75,000), significantly worse than expectations.
+- **Video Subscribers:** Lost 405,000 residential customers (accelerated cord-cutting)
+- **Mobile Subscribers:** +487,000 net mobile lines added (continued strong growth)
+
+---
+
+## 2. RECENT NEWS & DEVELOPMENTS
+
+- **Cord Cutting:** Charter continues to see accelerating video subscriber losses, reflecting an industry-wide trend as more customers switch to streaming.
+- **Rural Broadband Expansion:** Charter invested heavily in expanding networks into rural areas, aided by government subsidy programs (e.g., FCC’s Rural Digital Opportunity Fund). These investments are capital-intensive but could drive long-term growth.
+- **Cost Management:** Charter announced plans to control content costs and focus more on its broadband and wireless businesses. It has also benefited from efficiency gains and digital transformation.
+- **Spectrum Mobile:** The company’s mobile business, Spectrum Mobile (MVNO on Verizon's network), continues to be a strong growth driver.
+- **Share Repurchases:** Charter has been aggressively repurchasing shares, spending nearly $1.3 billion in Q1 2024.
+
+---
+
+## 3. KEY INSIGHTS
+
+### **Positives**
+
+- **Growing Mobile Segment:** Spectrum Mobile added nearly half a million lines in Q1, now totaling 7.7 million lines—making Charter one of the fastest-growing wireless providers in the country.
+- **Stable Broadband Revenue:** Although subscriber growth is weak, broadband remains a high-margin, sticky product accounting for the majority of revenue.
+- **Operational Efficiency:** Cost discipline and ongoing digital transformation have supported margin preservation.
+- **Long-Term Investment in Rural Expansion:** Strategic network investments position Charter for longer-term growth, especially with public funding programs.
+- **Aggressive Capital Returns:** Continued buybacks enhance shareholder value, particularly in a weak stock price environment.
+
+### **Negatives**
+
+- **Broadband Subscriber Losses:** For the first time, broadband net adds have turned negative, indicating maturation of key markets and greater competitive pressures from fiber and fixed wireless providers.
+- **Accelerating Video Declines:** Cable TV subscriber erosion, while expected, continues to be rapid, pressuring overall revenue.
+- **High Debt Load:** Charter’s balance sheet is highly leveraged (4.3x Net Debt/EBITDA), which may limit financial flexibility, especially in an elevated interest rate environment.
+- **Free Cash Flow Pressure:** Higher capital expenditures for rural buildout and slowing growth have reduced free cash flow.
+- **Regulatory Uncertainty:** The broadband industry is subject to potential new regulations regarding service requirements and fees, adding a layer of risk.
+
+---
+
+## 4. SENTIMENT & OUTLOOK
+
+Charter Communications faces a challenging environment, with legacy video rapidly declining and broadband growth slowing as the market saturates. Its pivot toward mobile and rural expansion offers new growth avenues, but both require continued investment and carry execution risks. The company’s aggressive share repurchases and stable cash flow partially offset near-term growth challenges.
+
+**Overall Sentiment:**
+- **Neutral-to-Slightly-Negative** in the short term (weak broadband adds, high capex).
+- **Positive Long-Term Potential** if rural investments and mobile initiatives deliver sustained growth.
+
+---
+
+**References**  
+- Charter Q1 2024 Earnings Press Release & Presentation (April 26, 2024)  
+- Company Investor Relations: https://ir.charter.com  
+- News sources: Reuters, Bloomberg, Seeking Alpha (June 2024)
+
+---
+
+*This report was prepared using financial and press data available as of June 10, 2024. Please verify with the latest filings for the most current information before making investment decisions.*

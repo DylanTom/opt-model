@@ -1,0 +1,73 @@
+Ticker: JNJ
+Insight:
+**Johnson & Johnson (JNJ) – Company Report**  
+*Data current as of June 11, 2024*
+
+---
+
+### **Company Overview**
+Johnson & Johnson (NYSE: JNJ) is a global leader in healthcare, operating in three primary business segments: Pharmaceuticals, MedTech (medical devices), and Consumer Health (now split off as Kenvue). JNJ is known for its diversified product portfolio and strong brand reputation.
+
+---
+
+### **Recent Financial Performance**
+
+#### **Q1 2024 Financial Highlights** (Reported April 16, 2024)
+- **Revenue:** $21.4 billion (up 2.3% YoY; exceeded consensus estimates)
+- **Adjusted EPS:** $2.71 (beat estimates; up from $2.68 YoY)
+- **Segment Performance:**
+  - *Pharmaceuticals:* Grew 2.5% YoY to $13.6 billion driven by key drugs like Darzalex, Stelara, and Tremfya.
+  - *MedTech:* Up 4.5% YoY to $7.8 billion, propelled by strong demand in electrophysiology and orthopaedics.
+  - *Consumer Health:* Spun off as Kenvue in 2023; not included in current numbers.
+
+- **2024 Guidance:** Full-year sales expected in the range of $88.0–88.4 billion, with adjusted EPS of $10.57–10.72.
+
+#### **Balance Sheet Health:**
+- **Cash & Equivalents:** Over $22 billion
+- **Debt:** Manageable leverage post-Kenvue separation
+- **Dividends:** Raised for 62 consecutive years; current yield ~3.2%
+
+---
+
+### **Recent News & Developments**
+
+- **Talc Litigation:** In June 2024, JNJ proposed a new $6.5 billion settlement plan to resolve nearly all remaining talc-related cancer lawsuits via a pre-packaged bankruptcy filing. Some plaintiff attorneys remain opposed. While this could provide legal certainty, outcome remains fluid.
+- **Pharmaceutical Pipeline:** Approved new drugs in oncology and immunology, with strong ongoing investment in late-stage candidates.
+- **Strategic Focus:** Refocused on higher-growth segments (Pharma & MedTech) following the Kenvue spinoff.
+- **ESG/DEI Initiatives:** Continued progress in sustainability and health equity efforts, well-received by institutional investors.
+
+---
+
+### **Key Insights & Company Sentiment**
+
+#### **Positives**
+- **Diversified Business:** Leadership positions in high-margin pharmaceutical segments, with blockbuster drugs supporting stable cash flow.
+- **Solid Financials:** Strong free cash flow, high credit ratings (Moody’s Aaa), and proven dividend reliability.
+- **MedTech Growth:** MedTech rebounding post-COVID with pent-up procedure demand and innovation.
+- **Strategic Clarity:** After spinning off consumer health, the company is now streamlined for higher growth in core sectors.
+- **R&D Pipeline:** Pharmaceutical pipeline contains several promising assets to offset upcoming LOEs (loss of exclusivity).
+
+#### **Negatives**
+- **Talc Litigation Overhang:** Legal risk remains, with uncertainty over the final settlement cost/resolution; could impact capital allocation.
+- **Drug Patent Expirations:** Imminent LOEs for crucial products like Stelara (in U.S. in 2025) could pressure revenue.
+- **Volatility in MedTech:** Some MedTech categories remain sensitive to macroeconomic disruptions or delays in medical procedures.
+- **Growth Concerns:** Post-consumer health split, overall revenue growth has moderated, raising questions about long-term growth rates.
+
+---
+
+### **Sentiment Analysis**  
+**Overall Sentiment: Mildly Positive**
+
+- The company’s solid financial footing, diversified pipeline, and defensive business model are major strengths.
+- Legal risks overhang the share price and remain a potential negative surprise factor.
+- Dividend reliability and brand strength make JNJ a classic defensive holding, appealing in uncertain markets.
+- Execution on new drug launches and successful legal settlements will be key catalysts through 2024–25.
+
+---
+
+**Sources:**  
+- Johnson & Johnson Q1 2024 Earnings Release (April 16, 2024)  
+- JNJ Press Releases (May–June 2024)  
+- Wall Street Journal, Reuters, Bloomberg (News as of June 2024)  
+
+*Report compiled June 11, 2024*

@@ -282,7 +282,7 @@ Certainly! Below is a diversified, theoretical 15-stock portfolio from the S&P 5
 - **Dividend Growth:** Prefer companies with track records of rising dividends (as used by Vanguard Dividend Growth).
 - **Risk Management:** Ensure diversification across sectors, with no overconcentration.
 
-Here’s a **Python list** of S&P 500 tickers selected on these principles ([stock - rationale]):
+Here’s a **Python list** of S&P 500 tickers selected on these principles:
 
 ```python
 ['AAPL',   # Apple - Quality, innovation, strong moat

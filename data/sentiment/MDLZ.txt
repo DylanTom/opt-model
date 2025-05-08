@@ -1,0 +1,84 @@
+Ticker: MDLZ
+Insight:
+**Report on Mondelez International, Inc. (Nasdaq: MDLZ)**  
+*Data current as of June 14, 2024.*
+
+---
+
+**Company Overview**  
+Mondelez International is a global leader in snacks, with well-known brands such as Oreo, Cadbury, Toblerone, Chips Ahoy!, and Trident. The company operates in over 150 countries and is headquartered in Chicago, Illinois.
+
+---
+
+**Recent Financial Performance: Q1 2024 Highlights**  
+(Source: MDLZ Q1 2024 Earnings Report, released May 1, 2024)
+
+- **Net Revenues:** $9.29 billion (up 1.4% YoY, organic net revenue up 4.2%)
+- **Operating Income:** $1.47 billion (operating margin at 15.8%)
+- **Diluted EPS:** $0.76 (GAAP); Adjusted EPS $0.95 (up 10% YoY)
+- **Free Cash Flow:** $900 million in Q1  
+- **Guidance:** Fiscal 2024 organic net revenue growth expected at 3-5%, and high single-digit growth in adjusted EPS.
+
+---
+
+**Key Developments (May–June 2024):**
+
+- **Acquisitions/Expansion:** Mondelez continues to invest in snacking brands—recently increased its stake in Hu Master Holdings and launched new product innovations in its core categories.
+- **ESG / Sustainability:** The company issued its latest ESG (Environmental, Social, Governance) report, committing further to sustainable cocoa sourcing and packaging reduction goals.
+- **Geopolitical Impact:** Exposure to Russia and some emerging markets continues to pose risk, as the company has maintained some operations in those regions.
+- **Supply Chain:** Stabilization in supply chains post-pandemic, though costs remain elevated due to inflationary pressures, especially with ingredients like cocoa at near-historic highs.
+
+---
+
+**Recent News (as of June 2024):**
+
+- **May 2024:** Announced investments in India and Southeast Asia to expand biscuit operations.
+- **June 2024:** Share repurchase program ongoing; company remains committed to returning value via dividends and buybacks.
+- **Labor relations:** No major disputes; successfully negotiated wage increases in some North American plants.
+
+---
+
+**Positives:**
+
+- **Resilient Growth:** Consistent organic revenue growth, even amid macroeconomic headwinds.
+- **Brand Strength:** Core brands drive pricing power and consumer loyalty, allowing margin protection.
+- **Geographic Diversity:** Strong presence across developed and emerging markets.
+- **Shareholder Returns:** Commitment to dividends (current yield ~2.3%) and share repurchases.
+- **Cash Flow:** Healthy free cash flow generation supports investments and payouts.
+
+---
+
+**Negatives:**
+
+- **Cost Inflation:** Significant impact from higher input costs, especially cocoa and packaging, which could pressure margins if not offset by price increases or productivity.
+- **Geopolitical Risk:** Continued exposure to unstable regions (notably Russia, some Middle Eastern and African markets).
+- **Category Maturity:** Saturation in some product categories (e.g., chocolate and biscuits in North America/Europe) limits growth opportunities.
+- **Currency Volatility:** International operations expose the company to significant FX risk.
+
+---
+
+**Sentiment Analysis & Outlook:**
+
+- **Fair/Neutral-to-Positive:** Mondelez remains a solid defensive play in the consumer staples sector, supported by market-leading brands, pricing power, and geographic diversity. Near-term challenges center mainly on inflationary pressures and geopolitical exposure, but strong cash flow and consistent execution position the company well for modest growth and continued shareholder returns.
+
+---
+
+**References:**  
+- MDLZ Q1 2024 Earnings Release and Presentation ([Investor Relations](https://www.mondelezinternational.com/investors/))  
+- Recent press releases (May–June 2024)  
+- Reuters, Bloomberg news coverage (as of June 14, 2024)
+
+---
+
+**Summary Table**
+
+| Metric                 | Q1 2024          | YoY Change        |
+|------------------------|------------------|-------------------|
+| Net Revenues           | $9.29B           | +1.4%             |
+| Organic Net Rev Growth | +4.2%            |                   |
+| Adjusted EPS           | $0.95            | +10%              |
+| Operating Margin       | 15.8%            | Flat/slight up    |
+
+---
+
+If you need a more detailed breakdown or sector comparisons, let me know!

@@ -1,0 +1,73 @@
+Ticker: ABBV
+Insight:
+**AbbVie (ABBV) Company Report**  
+*Date of most recent data collection: June 13, 2024*
+
+---
+
+### Company Overview
+AbbVie Inc. (NYSE: ABBV) is a global biopharmaceutical company headquartered in North Chicago, Illinois. Spun off from Abbott Laboratories in 2013, AbbVie is known primarily for its blockbuster immunology drug Humira, as well as its expanding oncology, neuroscience, and aesthetics franchises.
+
+---
+
+### Key Financial Data (as of Q1 2024)
+- **Market Cap:** ~$289 billion (as of June 2024)
+- **Share Price:** ~$162
+- **2023 Revenue:** $54.3 billion (Full Year)
+- **Q1 2024 Revenue:** $12.3 billion (down 5.6% YoY)
+- **Net Income (Q1 2024):** $650 million (down from $2.3 billion YoY)
+- **EPS (Q1 2024):** $0.37 (GAAP), $2.35 (Adjusted)
+- **Dividend Yield:** ~3.8%
+- **R&D Spend (Q1 2024):** Increased 4% YoY
+
+---
+
+### Recent News & Developments
+
+**Positive:**
+- **Rinvoq & Skyrizi Growth:** With Humira facing biosimilar competition, AbbVie's immunology drugs Rinvoq (upadacitinib) and Skyrizi (risankizumab) posted strong growth—Q1 2024 sales of $1.3B (+54% YoY) and $2.4B (+48% YoY), respectively.
+- **Oncology/Aesthetics Expansion:** Venclexta and Imbruvica (oncology drugs) and Botox (aesthetics) remain significant contributors.
+- **Pipeline Success:** Positive trial data for new therapies in neuroscience and oncology. Notably, ABBV-951 (Parkinson's disease) has shown favorable results.
+- **Dividend Commitment:** Declared $1.55/share quarterly dividend in April 2024, an increase from prior year, underscoring management's commitment to returns.
+
+**Negative:**
+- **Humira Sales Decline:** Humira’s Q1 2024 U.S. sales fell 32% YoY (to $2.3B) due to generic erosion; total global sales dropped 35%.
+- **EPS and Net Income Drop:** Net income and EPS fell sharply in Q1 2024, mostly from declining Humira sales and acquisition costs.
+- **Debt Load:** AbbVie has a large debt ($61B as of March 2024, post-Allergan acquisition); although manageable, it limits financial flexibility.
+- **Patent Expirations/Competition:** Increasing competition from biosimilars and generics, not only for Humira but for other flagship drugs in the future.
+
+---
+
+### Recent Strategic Moves
+
+- **Acquisitions:** AbbVie recently acquired ImmunoGen (Antibody-Drug Conjugate oncology asset) for $10.1B (closed March 2024), enhancing oncology pipeline.
+- **R&D Investment:** Increased focus on diversifying beyond Humira with launches and pipeline assets in immunology, neuroscience, and oncology.
+- **Cost Saving Initiatives:** Ongoing efforts to manage SG&A expenses and operational efficiency amid declining legacy drug revenues.
+
+---
+
+### Sentiment Analysis
+
+**Positives**  
+- Successfully offsetting Humira declines with strong growth in newer immunology drugs (especially Skyrizi and Rinvoq).
+- Robust and diversified pipeline.
+- Commitment to high dividends—appealing to income investors.
+- Strategy to expand in oncology and aesthetics showing tangible results.
+
+**Negatives**  
+- Significant fall in net income and EPS due to patent cliffs.
+- Large debt from past acquisitions.
+- Uncertainty around future performance as biosimilar competition increases.
+- Heavy reliance on a few key drugs for revenue.
+
+---
+
+### Summary
+
+AbbVie faces a transitional period as Humira, historically the world's top-selling drug, is significantly impacted by biosimilar competition. The company, however, has so far managed the transition better than many peers, thanks to fast-growing replacements (Skyrizi, Rinvoq) and continued innovation. Financials in 2024 show short-term pressure on revenues and margins, but the outlook is helped by a strong portfolio, quality pipeline, and a strategic focus on high-value therapeutic areas. The biggest risks are declining legacy revenue and high debt, which require careful management in the years ahead.
+
+**Overall, AbbVie remains a resilient player in the pharmaceutical industry, balancing challenges with a promising pipeline and shareholder-friendly policies.**
+
+---
+
+*Data sources: AbbVie Q1 2024 earnings call (April 26, 2024), company investor relations, Yahoo Finance, Reuters, and Bloomberg as of June 13, 2024.*

@@ -1,0 +1,75 @@
+Ticker: MRK
+Insight:
+**Merck & Co., Inc. (MRK) – Company Report**
+
+**Date of Data Collection:** June 26, 2024
+
+---
+
+## 1. **Company Overview**
+
+Merck & Co., Inc. (NYSE: MRK) is a global pharmaceutical company headquartered in Rahway, New Jersey. The company focuses on prescription medicines, vaccines, biologic therapies, and animal health products. Its leading products include the cancer therapy Keytruda, the HPV vaccine Gardasil, and vaccines for diseases such as pneumococcal infection.
+
+---
+
+## 2. **Recent Financial Performance**
+
+**Data referenced from: Q1 2024 Earnings Report (released April 25, 2024)**
+
+- **Q1 2024 Revenue**: $15.8 billion (10% increase YoY)
+- **GAAP Net Income**: $4.76 billion (significant increase compared to Q1 2023)
+- **Keytruda Sales**: $6.9 billion (20% YoY growth)
+- **Gardasil Sales**: $2.2 billion (15% YoY growth)
+- **EPS (Earnings Per Share)**: $1.49 GAAP, $2.07 non-GAAP
+
+**Other Financial Notes:**
+- **R&D Expenses**: $3.3B (increased investment in pipeline)
+- **2024 Guidance (as of April 2024)**:
+  - Revenue: $63.1 to $64.3 billion (up from previous guidance)
+  - EPS: $8.53 to $8.65 (non-GAAP)
+- **Dividend Yield**: ~2.4%
+
+---
+
+## 3. **Recent News & Company Developments**
+
+- **Keytruda Expansion**: The drug continues to expand into new indications, particularly for lung, breast, and kidney cancers. Merck is investing significantly in clinical trials.
+- **Acceleron Acquisition Integration**: Progress continues integrating Acceleron’s cardiovascular portfolio, notably sotatercept for pulmonary arterial hypertension.
+- **New Drug Approvals**: Recent FDA approvals for novel therapies, including Winrevair™ for pulmonary hypertension.
+- **Partnerships & Collaborations**: Merck has announced new collaborations with biotech firms focused on oncology, immunology, and mRNA therapeutics.
+- **COVID-19 Portfolio**: Sales of Lagevrio (molnupiravir) have declined, reflecting the global decrease in COVID-19 cases.
+
+---
+
+## 4. **Key Insights: Positives & Negatives**
+
+### **Positives**
+- **Strong Oncology Franchise**: Keytruda continues to be a blockbuster, driving overall growth and accounting for a significant portion of revenue.
+- **Vaccine Strength**: Gardasil remains a strong performer; vaccine pipeline is robust.
+- **Pipeline Depth**: Merck is investing heavily in R&D, with over 90 programs in clinical development, including ambitious oncology and cardiovascular assets.
+- **Solid Financial Position**: Healthy cash flow and manageable debt levels; company increased 2024 revenue guidance.
+- **Dividend Commitment**: Tracks as a consistent dividend growth stock.
+
+### **Negatives**
+- **Keytruda Patent Expiry Risk**: Keytruda’s principal U.S. patent expires in 2028. There are concerns about post-patent revenue erosion.
+- **Dependence on Flagship Drugs**: A large portion of revenue comes from a few key drugs, increasing vulnerability to competitive threats and patent cliffs.
+- **Limited COVID-19 Opportunity**: COVID-19 therapeutic revenues have sharply declined.
+- **Pipeline Risks**: The success of new launches (like Winrevair) and upcoming pipeline candidates is not guaranteed, and R&D is expensive.
+- **Regulatory Scrutiny**: Merck, like peers, faces pricing and regulatory pressures in the U.S. and abroad, including potential drug price negotiations by Medicare.
+
+---
+
+## 5. **Summary Sentiment**
+
+**Overall Sentiment: Moderately Positive**
+
+Merck is in a strong current position, underpinned by the continued success of Keytruda and Gardasil, robust recent financial performance, substantial R&D investment, and an improving product pipeline. However, investor concerns remain about patent expirations, particularly for Keytruda, and dependence on a limited product set. The company’s commitment to new therapeutic areas through acquisitions and partnerships is promising, but there is execution risk in achieving sustained growth after current flagships lose exclusivity.
+
+**Recommendation (not financial advice):** Investors should monitor Merck’s progress in diversifying its revenue base and advancing its late-stage pipeline, especially as Keytruda’s patent expiration approaches in the next few years.
+
+---
+
+**Sources:**  
+- Merck Q1 2024 Earnings Release  
+- Recent SEC filings and company presentations  
+- CNBC, Reuters, Company Press Releases

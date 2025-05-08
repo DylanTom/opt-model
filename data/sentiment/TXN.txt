@@ -1,0 +1,72 @@
+Ticker: TXN
+Insight:
+Certainly! Here’s a sample report on Texas Instruments (TXN), as of June 2024.  
+**Most recent data collected:** June 22, 2024  
+
+---
+
+# Texas Instruments (NASDAQ: TXN)  
+**Company Snapshot (as of June 22, 2024):**  
+- **Sector:** Semiconductors  
+- **Market Cap:** ~$150 billion  
+- **Latest Closing Price:** ~$183/share  
+- **Dividend Yield:** ~3.45%  
+- **Recent Financials (Q1 2024):**  
+    - **Revenue:** $3.66 billion  
+    - **Net Income:** $1.11 billion  
+    - **EPS:** $1.21 (GAAP)  
+
+---
+
+## Key Insights
+
+### Financial Performance
+- **Revenue:** In Q1 2024, TXN’s revenue was $3.66B, down from $4.37B YOY (-16%), reflecting industry-wide softness.
+- **Net Income:** Net income also declined to $1.11B (Q1 2023: $1.71B).
+- **Margins:** Gross margin at ~65%, relatively resilient, but lower than last year.
+
+### Market & Operations
+- **End-markets:** Largest exposures to industrial (41% of revenue) and automotive (29%).
+- **Inventory:** Built up inventory to 193 days (up from 176 days in Q4 2023), reflecting weaker demand.
+- **Capex:** Continues high levels of capital expenditure to expand US-based fab capacity (Sherman & Richardson, Texas).
+
+### Dividend and Shareholder Returns
+- **Dividends:** 20-year streak of annual dividend increases. Payout ratio 74% (on reduced profits).
+- **Buybacks:** Limited recent buybacks due to prioritizing capital investments.
+
+### Recent News
+- **June 2024:** Announced expanded partnership with General Motors on 300mm auto-grade chips, signaling ongoing strength in EV/autonomous vehicle markets.
+- **May 2024:** Cautious Q2 outlook. Management expects continued softness, particularly in industrials, but sees stabilization in automotive.
+- **April 2024:** Sherman fab construction on schedule, but capex ($5B forecast 2024) weighs on free cash flow.
+
+---
+
+## Positives
+1. **Strong Balance Sheet:** $9B cash, manageable debt ($7B LT debt).
+2. **Resilient Margins:** Maintains industry-leading margins even amid downturn.
+3. **Secular Growth Exposure:** Large EV/autonomous vehicle and industrial automation segments, poised for longer-term demand growth.
+4. **Shareholder Returns:** Reliable dividends, moderate buybacks.
+5. **Onshoring Leadership:** Early mover in US semiconductor onshoring, positioning for future production needs.
+
+## Negatives
+1. **Revenue & Profit Decline:** Marked declines due to cyclical downturn in industrials and overall weak chip demand.
+2. **Inventory Buildup:** High inventory days suggest sluggish demand, risk of write-downs.
+3. **High Capex Drag:** Aggressive fab investments suppress short-term free cash flow, raising some concerns around return on invested capital.
+4. **Limited Near-Term Visibility:** Management flagged continued softness for the next couple of quarters.
+5. **Competitive Pressure:** Faces competition from Analog Devices, Infineon, and new Chinese players, especially in autos.
+
+---
+
+## **Sentiment Analysis:**  
+- **Neutral-to-Moderately Negative (Short Term):** Current environment is challenging, with declining revenue and margin pressure.
+- **Moderately Positive (Medium-to-Long Term):** Leadership in analog/mixed-signal, onshoring investments, and strong end-market positioning suggest recovery potential as cycle turns, especially if industrial and auto demand rebounds.
+
+---
+
+## Conclusion
+
+Texas Instruments is navigating a difficult industry cycle with solid financial discipline and strategic investments geared to long-term growth. Short-term headwinds are significant, but the company’s strengths in balance sheet, onshoring, and secular end-market exposure may offer support for long-term investors. Monitoring inventory trends and execution on capex returns will be key going forward.
+
+---
+
+*Report based on the most recent company filings, news releases, and market data as of June 22, 2024.*
